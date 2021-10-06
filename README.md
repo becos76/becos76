@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+How cool is that? This repo displays on my profile !!!
+
 <!--
 **becos76/becos76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
