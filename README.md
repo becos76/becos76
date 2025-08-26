@@ -57,27 +57,22 @@ Just another take on deploying an ceos evpn fabric in containerlab
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/clab-ceos-evpn)
 ## Blog associated repos
 - [netlab-iol](https://github.com/becos76/netlab-iol): 
-Need a description here!!
+Using netlab to deploy up an IOU lab with containerlab
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/netlab-iol) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/netlab-iol)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/netlab-iol)
 - [kentik-custom-metrics](https://github.com/becos76/kentik-custom-metrics): 
-Need a description here!!
+Shipping custom SNMP and ST metrics via Kentik NMS agent
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/kentik-custom-metrics) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/kentik-custom-metrics)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/kentik-custom-metrics)
 - [kentik-eda](https://github.com/becos76/kentik-eda): 
-Need a description here!!
+Kentik Event Driven Ansible use case
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/kentik-eda) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/kentik-eda)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/kentik-eda)
-- [kne](https://github.com/becos76/kne): 
-Need a description here!!
-![GitHub Created At](https://img.shields.io/github/created-at/becos76/kne) 
-![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/kne)
-![GitHub last commit](https://img.shields.io/github/last-commit/becos76/kne)
 - [k8s_ansible](https://github.com/becos76/k8s_ansible): 
-Need a description here!!
+Ansible plays to deploy k8s with kubeadm
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/k8s_ansible) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/k8s_ansible)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/k8s_ansible)
@@ -118,6 +113,11 @@ Need a description here!!
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/container.training) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/container.training)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/container.training)
+- [kne](https://github.com/becos76/kne): 
+Need a description here!!
+![GitHub Created At](https://img.shields.io/github/created-at/becos76/kne) 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/kne)
+![GitHub last commit](https://img.shields.io/github/last-commit/becos76/kne)
 - [learning_python](https://github.com/becos76/learning_python): 
 Need a description here!!
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/learning_python) 
