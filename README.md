@@ -16,42 +16,42 @@ Below is a ToC of my GH repositories.
 ## Mini/Weekend Projects
 
 - [kentik-ua-helm](https://github.com/becos76/kentik-ua-helm): 
-Need a description here!!
+Sample helm chart for deploying Kentik Univeral Agent. Includes extensive Makefile targets for kind and containerlab actions for testing the agent.
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/kentik-ua-helm) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/kentik-ua-helm)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/kentik-ua-helm)
 - [nautobot-100days-jobs](https://github.com/becos76/nautobot-100days-jobs): 
-Need a description here!!
+100 Days of Nautobot Challenge - Using git repo for jobs
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/nautobot-100days-jobs) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/nautobot-100days-jobs)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/nautobot-100days-jobs)
 - [kproxy-monitor](https://github.com/becos76/kproxy-monitor): 
-Need a description here!!
+Just a way to ship kproxy status and metrics to kentik portal via NMS custom metrics
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/kproxy-monitor) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/kproxy-monitor)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/kproxy-monitor)
 - [srlinux-kentik-nms](https://github.com/becos76/srlinux-kentik-nms): 
-Need a description here!!
+Config for local overrides in Kentik NMS agent to ship srlinux grpc metrics
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/srlinux-kentik-nms) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/srlinux-kentik-nms)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/srlinux-kentik-nms)
 - [netbox-customisations](https://github.com/becos76/netbox-customisations): 
-Need a description here!!
+Some netbox customizations for integrating with Kentik
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/netbox-customisations) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/netbox-customisations)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/netbox-customisations)
 - [netbox-docker-dev](https://github.com/becos76/netbox-docker-dev): 
-Need a description here!!
+Trying netbox plugin development with docker
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/netbox-docker-dev) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/netbox-docker-dev)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/netbox-docker-dev)
 - [clabs-host-kind](https://github.com/becos76/clabs-host-kind): 
-Need a description here!!
+Needed a docker container started with systemd for testing services
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/clabs-host-kind) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/clabs-host-kind)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/clabs-host-kind)
 - [clab-ceos-evpn](https://github.com/becos76/clab-ceos-evpn): 
-Need a description here!!
+Just another take on deploying an ceos evpn fabric in containerlab
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/clab-ceos-evpn) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/clab-ceos-evpn)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/clab-ceos-evpn)
