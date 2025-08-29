@@ -67,7 +67,7 @@ You can find more about me via my online CV [site](https://becos76.github.io), o
 
 ## Website related
 - [becos76.github.io](https://github.com/becos76/becos76.github.io): 
-My online extensive resume with Hugo and gh-pages!
+My online extensive resume with Hugo and gh-pages! Moved to [my GH org](https://github.com/bytewise-me-org/onlineCV)
 ![GitHub Created At](https://img.shields.io/github/created-at/becos76/becos76.github.io) 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/t/becos76/becos76.github.io)
 ![GitHub last commit](https://img.shields.io/github/last-commit/becos76/becos76.github.io)
