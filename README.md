@@ -20,6 +20,9 @@ You can find more about me via my online CV [site](https://becos76.github.io), o
 
 ## Mini/Weekend Projects
 
+<a href="https://github.com/becos76/nautobot-100days-devcontainer">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=becos76&repo=nautobot-100days-devcontainer&theme=dracula" />
+</a>
 <a href="https://github.com/becos76/nautobot-100days-jobs">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=becos76&repo=nautobot-100days-jobs&theme=dracula" />
 </a>
