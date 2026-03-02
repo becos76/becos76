@@ -6,7 +6,7 @@
 
 👋 - I am a seasoned network engineer learning to reinvent myself in the age of automation and cloud. With 25+ years of professional IT experience, I've spent most of my career building, operating, and maintaining reliable network infrastructures. Over the last few years, I've realised that the future of networking lies in automation, programmability and DevOps practices with the most important of them being collaboration, hence I am trying to move out of my comfort zone and chase the dream.
 
-You can find more about me via my online CV [site](https://becos76.github.io), or read my [blog](https://net4fungr.github.io).
+You can find more about me via my online CV [site](https://mycv.bytewise.me/), or read my [blog](https://net4fungr.github.io).
 
 # My Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
