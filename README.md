@@ -16,6 +16,10 @@ You can find more about me via my online CV [site](https://mycv.bytewise.me/), o
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=becos76&theme=dracula" />
 </a>
 
+# My Github Stats
+
+![Stats](./profile/stats.svg)
+
 # My repos
 
 ## Mini/Weekend Projects
