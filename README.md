@@ -9,17 +9,10 @@
 You can find more about me via my online CV [site](https://mycv.bytewise.me/), or read my [blog](https://net4fungr.github.io).
 
 # My Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=becos76&layout=compact&langs_count=20&card_width=320&theme=dracula" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=becos76&theme=dracula" />
-</a>
 
-# My Github Stats
-
-![My Stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
+![My Stats](./profile/stats.svg)
+
 # My repos
 
 ## Mini/Weekend Projects
