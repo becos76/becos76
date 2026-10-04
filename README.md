@@ -18,8 +18,8 @@ You can find more about me via my online CV [site](https://mycv.bytewise.me/), o
 
 # My Github Stats
 
-![Stats](./profile/stats.svg)
-
+![My Stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 # My repos
 
 ## Mini/Weekend Projects
