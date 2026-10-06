@@ -21,13 +21,21 @@ jobs:
                 path: profile/stats.svg
                 token: ${{ secrets.GITHUB_TOKEN }}
 
-            - name: Generate stats card
+            - name: Generate langs card
               uses: stats-organization/github-readme-stats-action@v2
               with:
                 card: top-langs
                 options: username=${{ github.repository_owner }}&layout=compact&hide_title=true&langs_count=20&card_width=320&theme=dracula
                 path: profile/top-langs.svg
                 token: ${{ secrets.GITHUB_TOKEN }}
+            - name: Generate flow-vs-snmp card
+              uses: stats-organization/github-readme-stats-action@v2
+              with:
+                card: flow-vs-snmp
+                options: username=${{ github.repository_owner }}&repo=flow-vs-snmp&show_icons=true&include_all_commits=true&theme=dracula
+                path: profile/flow-vs-snmp.svg
+                token: ${{ secrets.GITHUB_TOKEN }}
+
 
 
             - name: Commit Cards
