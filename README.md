@@ -17,6 +17,8 @@ You can find more about me via my online CV [site](https://mycv.bytewise.me/), o
 
 ## Mini/Weekend Projects
 
+![Flow vs. SNMP](./profile/flow-vs-snmp.svg)
+
 <a href="https://github.com/becos76/nautobot-100days-devcontainer">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=becos76&repo=nautobot-100days-devcontainer&theme=dracula" />
 </a>
